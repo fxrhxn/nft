@@ -5,6 +5,12 @@
 
 1) [Keras-GAN](https://github.com/eriklindernoren/Keras-GAN)
 
+#### Installation
+    $ git clone https://github.com/eriklindernoren/Keras-GAN
+    $ cd Keras-GAN/
+    $ sudo pip3 install -r requirements.txt
+
+
 
 ### Tensorflow GAN Library
 
