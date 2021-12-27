@@ -1,0 +1,11 @@
+{
+  "name": "learning-nft",
+  "version": "1.0.0",
+  "description": "Learning about GANs / NFTs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Farhan Rahman",
+  "license": "ISC"
+}
