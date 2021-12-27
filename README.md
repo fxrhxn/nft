@@ -1,9 +1,9 @@
-## Repos I'm studying
+## Things to study
 
 
 ### Keras GAN Library 
 
-1) [Daddy-Keras](https://github.com/eriklindernoren/Keras-GAN)
+1) [Keras-GAN](https://github.com/eriklindernoren/Keras-GAN)
 
 
 ### Tensorflow GAN Library
