@@ -36,13 +36,13 @@
 ##### [Light Reading pt. 2](https://machinelearningmastery.com/what-are-generative-adversarial-networks-gans)
 
 
-### Google Courses 
+### Google Courses - follow in this order
 
-
-##### [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+##### [Prerequisites](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework)
 
 ##### [Problem Framing with Machine Learning](https://developers.google.com/machine-learning/problem-framing/)
 
+##### [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 
 ##### [GANs](https://developers.google.com/machine-learning/gan)
 
