@@ -40,20 +40,20 @@
 ### peter thiels fav GAN projects below 
 
 
-1) Object Detection/Recognition
+#### 1) Object Detection/Recognition
 + Perceptual Generative Adversarial Networks for Small Object Detection, [[paper]](https://arxiv.org/pdf/1706.05274)
 + Adversarial Generation of Training Examples for Vehicle License Plate Recognition, [[paper]](https://arxiv.org/pdf/1707.03124.pdf)
 
 
-2) Robotics
+#### 2) Robotics
 + Unsupervised Pixel–Level Domain Adaptation with Generative Adversarial Networks, [[paper]](https://arxiv.org/pdf/1612.05424.pdf), [[github]](https://github.com/rhythm92/Unsupervised-Pixel-Level-Domain-Adaptation-with-GAN)
 
 
-3) Video (generation/prediction)
+#### 3) Video (generation/prediction)
 + DEEP MULTI-SCALE VIDEO PREDICTION BEYOND MEAN SQUARE ERROR, [[paper]](https://arxiv.org/pdf/1511.05440.pdf), [[github]](https://github.com/dyelax/Adversarial_Video_Generation)
 
 
-4) Synthetic Data Generation
+#### 4) Synthetic Data Generation
 + Learning from Simulated and Unsupervised Images through Adversarial Training, [[paper]](https://arxiv.org/pdf/1612.07828.pdf), [[github]](https://github.com/carpedm20/simulated-unsupervised-tensorflow)
 
 
