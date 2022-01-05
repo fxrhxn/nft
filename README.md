@@ -37,7 +37,7 @@
 
 
 
-### peter thiels fav GAN projects below 
+### random GAN apps
 
 
 #### 1) Object Detection/Recognition
