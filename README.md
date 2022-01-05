@@ -2,25 +2,16 @@
 
 
 ### Boring reading, better get drunk for this. 
-
-##### [MIT PDF](https://openreview.net/pdf?id=Hyg_X2C5FX)
-
-##### [Light Reading](https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29)
-
-##### [Light Reading pt. 2](https://machinelearningmastery.com/what-are-generative-adversarial-networks-gans)
-
+1) [MIT PDF](https://openreview.net/pdf?id=Hyg_X2C5FX)
+2) [Light Reading](https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29)
+3) [Light Reading pt. 2](https://machinelearningmastery.com/what-are-generative-adversarial-networks-gans)
 
 
 ### Google Courses - follow in this order
-
-##### [Prerequisites](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework)
-
-##### [Problem Framing with Machine Learning](https://developers.google.com/machine-learning/problem-framing/)
-
-##### [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
-
-##### [GANs](https://developers.google.com/machine-learning/gan)
-
+1) [Prerequisites](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework)
+2) [Problem Framing with Machine Learning](https://developers.google.com/machine-learning/problem-framing/)
+3) [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
+4) [GANs](https://developers.google.com/machine-learning/gan)
 
 
 ### Keras GAN Library 
